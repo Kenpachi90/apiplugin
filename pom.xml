@@ -3,4 +3,11 @@
   <groupId>apiplugin</groupId>
   <artifactId>apiplugin</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  	<dependency>
+  		<groupId>org.hibernate</groupId>
+  		<artifactId>hibernate-core</artifactId>
+  		<version>5.0.2.Final</version>
+  	</dependency>
+  </dependencies>
 </project>
